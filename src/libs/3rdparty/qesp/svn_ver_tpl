@@ -1,0 +1,5 @@
+win32 {
+    SVN_VERSION = $WCREV$
+} else {
+    SVN_VERSION = 0
+}
